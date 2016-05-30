@@ -1,0 +1,19 @@
+{
+  "name": "guessnumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMMr-chen/TWA--2016-05-29-guessNumGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMMr-chen/TWA--2016-05-29-guessNumGame/issues"
+  },
+  "homepage": "https://github.com/MMMr-chen/TWA--2016-05-29-guessNumGame#readme",
+  "description": ""
+}
